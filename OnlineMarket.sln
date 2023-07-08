@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C17F7EAE-3246-404D-BAFE-4376AA3534C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F3194372-530F-463B-8DC2-C28505C0010C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.APi", "src\OnlineMarket.APi\OnlineMarket.APi.csproj", "{9D287922-956F-461C-8929-4186538D6D44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.DataAccess", "src\OnlineMarket.DataAccess\OnlineMarket.DataAccess.csproj", "{2663165A-9F0B-428E-A239-14A1E0BF86FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.Domain", "src\OnlineMarket.Domain\OnlineMarket.Domain.csproj", "{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.Service", "src\OnlineMarket.Service\OnlineMarket.Service.csproj", "{DA4AADE0-E501-4469-BC05-AA778DB9DB04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.UnitTest", "test\OnlineMarket.UnitTest\OnlineMarket.UnitTest.csproj", "{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D287922-956F-461C-8929-4186538D6D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D287922-956F-461C-8929-4186538D6D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D287922-956F-461C-8929-4186538D6D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D287922-956F-461C-8929-4186538D6D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2663165A-9F0B-428E-A239-14A1E0BF86FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2663165A-9F0B-428E-A239-14A1E0BF86FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2663165A-9F0B-428E-A239-14A1E0BF86FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2663165A-9F0B-428E-A239-14A1E0BF86FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4AADE0-E501-4469-BC05-AA778DB9DB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4AADE0-E501-4469-BC05-AA778DB9DB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4AADE0-E501-4469-BC05-AA778DB9DB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4AADE0-E501-4469-BC05-AA778DB9DB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D287922-956F-461C-8929-4186538D6D44} = {C17F7EAE-3246-404D-BAFE-4376AA3534C6}
+		{2663165A-9F0B-428E-A239-14A1E0BF86FD} = {C17F7EAE-3246-404D-BAFE-4376AA3534C6}
+		{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B} = {C17F7EAE-3246-404D-BAFE-4376AA3534C6}
+		{DA4AADE0-E501-4469-BC05-AA778DB9DB04} = {C17F7EAE-3246-404D-BAFE-4376AA3534C6}
+		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8} = {F3194372-530F-463B-8DC2-C28505C0010C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331D773C-2ED0-43FA-B79D-04E92B965DF5}
+	EndGlobalSection
+EndGlobal
