@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.Service", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.UnitTest", "test\OnlineMarket.UnitTest\OnlineMarket.UnitTest.csproj", "{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMarket.IntegrationTest", "OnlineMarket.IntegrationTest\OnlineMarket.IntegrationTest.csproj", "{8FBA9E5D-6618-46BA-AF1B-2E599D9597F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMarket.IntegrationTest", "test\OnlineMarket.IntegrationTest\OnlineMarket.IntegrationTest.csproj", "{092284DA-4530-4F22-A202-CDD371C488A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +45,10 @@ Global
 		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8FBA9E5D-6618-46BA-AF1B-2E599D9597F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FBA9E5D-6618-46BA-AF1B-2E599D9597F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FBA9E5D-6618-46BA-AF1B-2E599D9597F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FBA9E5D-6618-46BA-AF1B-2E599D9597F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092284DA-4530-4F22-A202-CDD371C488A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092284DA-4530-4F22-A202-CDD371C488A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092284DA-4530-4F22-A202-CDD371C488A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092284DA-4530-4F22-A202-CDD371C488A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,7 +59,7 @@ Global
 		{31CB616D-87F2-4B26-BE4D-17BD00FC9D8B} = {C17F7EAE-3246-404D-BAFE-4376AA3534C6}
 		{DA4AADE0-E501-4469-BC05-AA778DB9DB04} = {C17F7EAE-3246-404D-BAFE-4376AA3534C6}
 		{7C13DD9E-10D2-44B7-BE25-BA3EFC782DF8} = {F3194372-530F-463B-8DC2-C28505C0010C}
-		{8FBA9E5D-6618-46BA-AF1B-2E599D9597F4} = {F3194372-530F-463B-8DC2-C28505C0010C}
+		{092284DA-4530-4F22-A202-CDD371C488A6} = {F3194372-530F-463B-8DC2-C28505C0010C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {331D773C-2ED0-43FA-B79D-04E92B965DF5}
