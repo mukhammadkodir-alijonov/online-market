@@ -1,0 +1,17 @@
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.deps.json
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.runtimeconfig.json
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.dll
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.pdb
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.Domain.dll
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.Domain.pdb
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.csproj.AssemblyReference.cache
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.AssemblyInfoInputs.cache
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.AssemblyInfo.cs
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.csproj.CoreCompileInputs.cache
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.csproj.CopyComplete
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.dll
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\refint\OnlineMarket.DataAccess.dll
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.pdb
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.genruntimeconfig.cache
+D:\dotNET\online-market-web\src\OnlineMarket.DataAccess\obj\Debug\net6.0\ref\OnlineMarket.DataAccess.dll

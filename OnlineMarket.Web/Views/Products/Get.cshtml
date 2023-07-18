@@ -1,0 +1,48 @@
+﻿@using OnlineMarket.Service.ViewModels.Products;
+@model ProductViewModel
+
+<div class="d-flex flex-row">
+    <div class="row-cols-2">
+        <img class="w-300px h-300px card-rounded" src="~/@Model.ImagePath" alt="@Model.Name" />
+    </div>
+    <div class="row-cols-2 mx-10 bg-white pt-5 px-10 pb-10 pe-10">
+        <table class="table mb-3">
+            <thead>
+                <tr class="border-bottom fs-6 fw-bolder text-gray-400">
+                    <th class="min-w-175px pb-2"><span class="badge badge-light-success mx-2">*</span></th>
+                    <th class="min-w-100px text-end pb-2">Miqdori</th>
+                    <th class="min-w-60px text-end pb-2">Birligi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="fw-bolder text-gray-700 fs-5 text-end">
+                    <td class="d-flex align-items-center pt-6">
+                        <i class="fa fa-genderless text-danger fs-2 me-2"></i>Asl narxi :
+                    </td>
+                    <td class="pt-6 text-dark fw-boldest">
+                        @Model.OriginalPrice
+                    </td>
+                    <td><span class="badge badge-light-success mx-2">uzs</span></td>
+                </tr>
+                <tr class="fw-bolder text-gray-700 fs-5 text-end">
+                    <td class="d-flex align-items-center">
+                        <i class="fa fa-genderless text-success fs-2 me-2"></i>Chegirma narxi :
+                    </td>
+                    <td class="fs-5 text-dark fw-boldest">
+                        @Model.DiscountPrice
+                    </td>
+                    <td><span class="badge badge-light-success mx-2">uzs</span></td>
+                </tr>
+                <tr class="fw-bolder text-gray-700 fs-5 text-end">
+                    <td class="d-flex align-items-center">
+                        <i class="fa fa-genderless text-primary fs-2 me-2"></i>Umumiy narxi :
+                    </td>
+                    <td class="fs-5 text-dark fw-boldest">
+                        @Model.ResultPrice
+                    </td>
+                    <td><span class="badge badge-light-success mx-2">uzs</span></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
