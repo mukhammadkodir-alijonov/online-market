@@ -10,7 +10,7 @@ namespace OnlineMarket.Web.Controllers;
 public class ProductsController : Controller
 {
     private readonly IProductService _productService;
-    private readonly int _pageSize = 30;
+    private readonly int _pageSize = 2;
     public ProductsController(IProductService productService)
     {
         this._productService = productService;

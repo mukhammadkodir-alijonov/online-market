@@ -1,5 +1,5 @@
-﻿@using OnlineMarket.Service.ViewModels.Products;
-@model List<ProductBaseViewModel>
+﻿@using OnlineMarket.Service.Common.Utils;
+@model PagedList<ProductBaseViewModel>
 <div class="row g-10 " style="display: flex;justify-content: center">
     @{
         foreach (var product in Model)
@@ -51,4 +51,53 @@
             </div>
         }
     }
+
+    <ul class="pagination pagination-outline">
+        @{
+            if (Model.MetaData.TotalPages > 1)
+            {
+                if (Model.MetaData.HasPrevious)
+                {
+                    <li class="page-item previous m-1">
+                        <a asp-controller="products" asp-action="index" asp-route-page="@(Model.MetaData.CurrentPage-1)" class="page-link">
+                            <i class="previous"></i>
+                        </a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item previous disabled m-1">
+                        <a href="#" class="page-link"><i class="previous"></i></a>
+                    </li>
+                }
+                for (int _page = 1; _page <= Model.MetaData.TotalPages; _page++)
+                {
+                    if (_page == Model.MetaData.CurrentPage)
+                    {
+                        <li class="page-item active m-1">
+                            <a asp-controller="products" asp-action="index" asp-route-page="@_page" class="page-link">@_page</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item m-1">
+                            <a asp-controller="products" asp-action="index" asp-route-page="@_page" class="page-link">@_page</a>
+                        </li>
+                    }
+                }
+                if (Model.MetaData.HasNext)
+                {
+                    <li class="page-item next m-1">
+                        <a asp-controller="products" asp-action="index" asp-route-page="@(Model.MetaData.CurrentPage+1)" class="page-link"><i class="next"></i></a>
+                    </li>
+                }
+                else
+                {
+                    <li class="page-item disabled next m-1">
+                        <a href="#" class="page-link"><i class="next"></i></a>
+                    </li>
+                }
+            }
+        }
+    </ul>
 </div>

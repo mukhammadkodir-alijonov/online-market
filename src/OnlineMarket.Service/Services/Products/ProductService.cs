@@ -5,6 +5,7 @@ using OnlineMarket.Service.Common.Helpers;
 using OnlineMarket.Service.Common.Utils;
 using OnlineMarket.Service.Interfaces.Products;
 using OnlineMarket.Service.ViewModels.Products;
+using System.Diagnostics;
 
 namespace OnlineMarket.Service.Services.Products;
 public class ProductService : IProductService
@@ -14,7 +15,7 @@ public class ProductService : IProductService
     {
         this._repository = unitOfWork;
     }
-    public async Task<IEnumerable<ProductBaseViewModel>> GetAllAsync(PaginationParams @params)
+    public async Task<PagedList<ProductBaseViewModel>> GetAllAsync(PaginationParams @params)
     {
         var query = from product in _repository.Products.GetAll()
                     let discountPrice = _repository.ProductDiscounts.GetAll().Where(discount =>
@@ -31,9 +32,9 @@ public class ProductService : IProductService
                         DiscountPrice = discountPrice,
                         ResultPrice = product.Price - discountPrice
                     };
-        return  await query.Skip((@params.PageNumber - 1) * @params.PageSize)
-                          .Take(@params.PageSize).AsNoTracking()
-                          .ToListAsync();
+
+        var result =  await PagedList<ProductBaseViewModel>.ToPagedListAsync(query, @params);
+        return result;
     }
 
     public async Task<ProductViewModel> GetAsync(long productId)

@@ -12,7 +12,9 @@ public class AppDbContext : DbContext
 	public AppDbContext(DbContextOptions<AppDbContext> options)
 		: base(options)
 	{
-	}
+        Database.Migrate();
+        Database.EnsureCreated();
+    }
 
 	public virtual DbSet<User> Users { get; set; } = default!;
 	public virtual DbSet<Administator> Administators { get; set; } = default!;
