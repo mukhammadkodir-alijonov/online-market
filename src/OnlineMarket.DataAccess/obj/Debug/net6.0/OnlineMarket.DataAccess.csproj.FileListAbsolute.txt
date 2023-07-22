@@ -1,0 +1,17 @@
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.deps.json
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.runtimeconfig.json
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.DataAccess.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.Domain.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\bin\Debug\net6.0\OnlineMarket.Domain.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.csproj.AssemblyReference.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.AssemblyInfo.cs
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.csproj.CopyComplete
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\refint\OnlineMarket.DataAccess.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\OnlineMarket.DataAccess.genruntimeconfig.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.DataAccess\obj\Debug\net6.0\ref\OnlineMarket.DataAccess.dll

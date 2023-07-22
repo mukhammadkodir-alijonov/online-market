@@ -1,0 +1,12 @@
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\bin\Debug\net6.0\OnlineMarket.Domain.deps.json
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\bin\Debug\net6.0\OnlineMarket.Domain.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\bin\Debug\net6.0\OnlineMarket.Domain.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.csproj.AssemblyReference.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.AssemblyInfo.cs
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\refint\OnlineMarket.Domain.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\OnlineMarket.Domain.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Domain\obj\Debug\net6.0\ref\OnlineMarket.Domain.dll

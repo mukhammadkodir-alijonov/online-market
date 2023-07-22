@@ -1,0 +1,6 @@
+C:\Users\alijo\OneDrive\Desktop\online-market\test\OnlineMarket.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\alijo\OneDrive\Desktop\online-market\test\OnlineMarket.UnitTest\obj\Debug\net6.0\OnlineMarket.UnitTest.csproj.AssemblyReference.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\test\OnlineMarket.UnitTest\obj\Debug\net6.0\OnlineMarket.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alijo\OneDrive\Desktop\online-market\test\OnlineMarket.UnitTest\obj\Debug\net6.0\OnlineMarket.UnitTest.AssemblyInfoInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\test\OnlineMarket.UnitTest\obj\Debug\net6.0\OnlineMarket.UnitTest.AssemblyInfo.cs
+C:\Users\alijo\OneDrive\Desktop\online-market\test\OnlineMarket.UnitTest\obj\Debug\net6.0\OnlineMarket.UnitTest.csproj.CoreCompileInputs.cache

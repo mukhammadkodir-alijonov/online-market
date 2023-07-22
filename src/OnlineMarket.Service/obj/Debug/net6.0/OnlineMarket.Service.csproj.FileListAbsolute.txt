@@ -1,0 +1,17 @@
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.Service.deps.json
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.Service.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.Service.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.DataAccess.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.Domain.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.DataAccess.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\bin\Debug\net6.0\OnlineMarket.Domain.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.csproj.AssemblyReference.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.AssemblyInfoInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.AssemblyInfo.cs
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.csproj.CoreCompileInputs.cache
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.csproj.CopyComplete
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\refint\OnlineMarket.Service.dll
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\OnlineMarket.Service.pdb
+C:\Users\alijo\OneDrive\Desktop\online-market\src\OnlineMarket.Service\obj\Debug\net6.0\ref\OnlineMarket.Service.dll
