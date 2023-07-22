@@ -4,7 +4,7 @@ using OnlineMarket.Web.Middlewares;
 using System.Net;
 
 //-> Services
-var builder = WebApplication.CreateBuilder(args);
+ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDataAccess(builder.Configuration);
 builder.Services.AddService();

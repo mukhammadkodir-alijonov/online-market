@@ -1,7 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Moq;
+﻿using Moq;
 using OnlineMarket.Service.Interfaces.Products;
-using OnlineMarket.Web.Controllers;
 
 namespace OnlineMarket.UnitTest.ControllerTests.ViewTests.Client;
 

@@ -31,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\OnlineMarket.Web\OnlineMarket.Web.csproj" />
+    <ProjectReference Include="..\..\src\OnlineMarket.Service\OnlineMarket.Service.csproj" />
   </ItemGroup>
 
 </Project>

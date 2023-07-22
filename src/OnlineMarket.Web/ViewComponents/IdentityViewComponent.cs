@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using OnlineMarket.Service.Interfaces.Common;
 using OnlineMarket.Service.ViewModels.Accounts;
+using System.Security.Principal;
 
 namespace OnlineMarket.Web.ViewComponents;
 public class IdentityViewComponent : ViewComponent
