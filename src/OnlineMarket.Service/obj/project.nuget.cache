@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LX3k/AC/TjUU8807jXzUB1jg33d5TWMHAUXz/xt3q05zk5Ntej6ebIPhWGCtDcfW36VrliRlSUyhywktNKWIjw==",
+  "dgSpecHash": "Mam0VBKbTme8OWIkSFqMKrGxq4JSRUPYTxt2hWDlj1SPT5vogyaMPQYp7RmXcU4UBC3KgycQjhzEVQCEZfhMQA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj",
+  "projectFilePath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alijo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\alijo\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",

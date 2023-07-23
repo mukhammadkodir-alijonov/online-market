@@ -7642,11 +7642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
       "projectName": "OnlineMarket.UnitTest",
-      "projectPath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
+      "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
       "packagesPath": "C:\\Users\\alijo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7663,8 +7663,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj": {
-              "projectPath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj"
+            "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj": {
+              "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj"
             }
           }
         }
