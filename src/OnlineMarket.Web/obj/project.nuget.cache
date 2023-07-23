@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwgUx6o5S1eNnyj7iQAMtfQmmJ/cXmkItdI2W1hrExnYPDbQ1CHYiMhdTp89xWtBeJNf+VokkhmQkzygfzpBDw==",
+  "dgSpecHash": "u9JxONiFWQZtpNCa5InCnwjbG9Uezyl/a2NMYJaMqAEX9qGEp2hdNyUA7I+7J5dusq2JTf/uueZzAy7hfu4g6g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Web\\OnlineMarket.Web.csproj",
+  "projectFilePath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Web\\OnlineMarket.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alijo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\alijo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vV2/g0BrvLc5E5JrRgJo+M4YPMgJ4C7bF63YqyPo3AkNcBuB9+hwAbe3VD9ZSHwLC1Q4w4VRBSN21oVzq7/zWA==",
+  "dgSpecHash": "vctpHDmqhjjRiVNgI5LKZMNz3BpBM8PlQnxNASi3eLZfxCn5Z44g5eDXY9Ja2w5I0K6Qxk6IWTlGR1g5z2POmA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.IntegrationTest\\OnlineMarket.IntegrationTest.csproj",
+  "projectFilePath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.IntegrationTest\\OnlineMarket.IntegrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alijo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\alijo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
