@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {}
+    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {
+    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
         "projectName": "OnlineMarket.Domain",
-        "projectPath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
+        "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
         "packagesPath": "C:\\Users\\alijo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\obj\\",
+        "outputPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
