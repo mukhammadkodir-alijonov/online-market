@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj": {}
+    "C:\\Users\\xolid\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj": {
+    "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj",
         "projectName": "OnlineMarket.DataAccess",
-        "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\alijo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\xolid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xolid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {
-                "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj"
+              "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {
+                "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj"
               }
             }
           }
@@ -71,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {
+    "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
         "projectName": "OnlineMarket.Domain",
-        "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
-        "packagesPath": "C:\\Users\\alijo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Domain\\obj\\",
+        "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Domain\\OnlineMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\xolid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xolid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,21 +126,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj": {
+    "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj",
+        "projectUniqueName": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj",
         "projectName": "OnlineMarket.Service",
-        "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj",
-        "packagesPath": "C:\\Users\\alijo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\obj\\",
+        "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj",
+        "packagesPath": "C:\\Users\\xolid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xolid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,8 +154,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj"
+              "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.DataAccess\\OnlineMarket.DataAccess.csproj"
               }
             }
           }
@@ -215,21 +215,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj": {
+    "C:\\Users\\xolid\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\xolid\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
         "projectName": "OnlineMarket.UnitTest",
-        "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\alijo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\obj\\",
+        "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\OnlineMarket.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\xolid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xolid\\Desktop\\online-market\\test\\OnlineMarket.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alijo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xolid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -243,8 +243,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj": {
-                "projectPath": "C:\\Users\\alijo\\OneDrive\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj"
+              "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj": {
+                "projectPath": "C:\\Users\\xolid\\Desktop\\online-market\\src\\OnlineMarket.Service\\OnlineMarket.Service.csproj"
               }
             }
           }
@@ -300,7 +300,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
